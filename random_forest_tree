@@ -1,9 +1,0 @@
-digraph Tree {
-node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
-edge [fontname="helvetica"] ;
-0 [label=<GPA &le; -0.126<br/>gini = 0.5<br/>samples = 332<br/>value = [262, 257]<br/>class = Fail>, fillcolor="#fffdfb"] ;
-1 [label=<gini = 0.0<br/>samples = 164<br/>value = [262, 0]<br/>class = Fail>, fillcolor="#e58139"] ;
-0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label=<gini = 0.0<br/>samples = 168<br/>value = [0, 257]<br/>class = Pass>, fillcolor="#399de5"] ;
-0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-}
