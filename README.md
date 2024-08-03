@@ -26,4 +26,5 @@
 
 4. **Output of the Machine Learning Model:**
     ```bash
+    Click the video to watch.
  [![Watch the video](https://img.youtube.com/vi/YsSnPLgF5Nk/0.jpg)](https://youtu.be/YsSnPLgF5Nk)
