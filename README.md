@@ -25,4 +25,4 @@
    streamlit run app.py
 
 4. **Output of the Machine Learning Model:**
- [Watch the video](https://github.com/Er-Thomas007/Machine_Learning_for_Analyzing_Student_Academic_Performance/blob/main/Resources/output1.mp4)
+ [![Watch the video](https://img.youtube.com/vi/YsSnPLgF5Nk/0.jpg)](https://youtu.be/YsSnPLgF5Nk)
